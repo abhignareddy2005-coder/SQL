@@ -1,0 +1,1 @@
+select FIRST_name,last_name,FIRST_name||last_name from hr.employees
