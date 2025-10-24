@@ -1,0 +1,3 @@
+How do you find the minimum salary in the hr.employees table
+
+SELECT MIN(Salary) from hr.employees ;
