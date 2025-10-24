@@ -1,0 +1,1 @@
+select *from hr.employees where first_name like '%John%'
